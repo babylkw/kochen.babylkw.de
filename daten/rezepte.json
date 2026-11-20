@@ -1,0 +1,205 @@
+[
+  {
+    "id": "ofengemuese",
+    "photo": "ofengemuese",
+    "title": "Buntes Ofengemüse mit Kräuterdip",
+    "category": "Hauptgerichte",
+    "minutes": 45,
+    "portions": 4,
+    "difficulty": "Einfach",
+    "ingredients": [
+      "600 g Kartoffeln",
+      "3 Möhren",
+      "1 Zucchini",
+      "2 rote Paprika",
+      "3 EL Olivenöl",
+      "1 TL Paprikapulver",
+      "Salz und Pfeffer",
+      "250 g Naturjoghurt",
+      "1 EL Zitronensaft",
+      "2 EL gehackte Petersilie oder Schnittlauch"
+    ],
+    "steps": [
+      "Backofen auf 210 °C Ober-/Unterhitze vorheizen. Kartoffeln in schmale Spalten, Möhren in Stifte schneiden. Beides mit 2 EL Öl, Paprika, Salz und Pfeffer vermengen.",
+      "Auf einem Blech verteilen und 15 Minuten rösten. Inzwischen Zucchini in Halbmonde und Paprika in breite Streifen schneiden.",
+      "Zucchini und Paprika mit dem übrigen Öl mischen, aufs Blech geben und alles weitere 20–25 Minuten rösten, bis die Kartoffeln weich und goldbraun sind.",
+      "Joghurt mit Zitronensaft und Kräutern verrühren. Mit Salz abschmecken und zum Gemüse reichen."
+    ]
+  },
+  {
+    "id": "pesto",
+    "photo": "pesto",
+    "title": "Tagliatelle mit Basilikumpesto",
+    "category": "Hauptgerichte",
+    "minutes": 20,
+    "portions": 4,
+    "difficulty": "Einfach",
+    "ingredients": [
+      "400 g Tagliatelle",
+      "50 g Basilikum",
+      "50 g Pinienkerne",
+      "1 Knoblauchzehe",
+      "60 g geriebener Parmesan",
+      "80 ml Olivenöl",
+      "Salz und Pfeffer"
+    ],
+    "steps": [
+      "Pinienkerne in einer trockenen Pfanne goldgelb rösten. Einen Esslöffel zum Anrichten zurücklegen.",
+      "Tagliatelle nach Packungsanweisung in Salzwasser garen. Eine Tasse Kochwasser auffangen.",
+      "Basilikum, Knoblauch, übrige Pinienkerne und Olivenöl kurz pürieren. Parmesan unterrühren und würzen.",
+      "Pesto mit etwas Kochwasser glattrühren und unter die heißen Nudeln heben. Mit den übrigen Pinienkernen servieren."
+    ]
+  },
+  {
+    "id": "gnocchi",
+    "photo": "gnocchi",
+    "title": "Goldene Gnocchi mit Tomaten",
+    "category": "Hauptgerichte",
+    "minutes": 25,
+    "portions": 4,
+    "difficulty": "Einfach",
+    "ingredients": [
+      "800 g Kartoffelgnocchi",
+      "400 g Cherrytomaten",
+      "2 Knoblauchzehen",
+      "3 EL Olivenöl",
+      "1 Handvoll Basilikum",
+      "Salz und Pfeffer"
+    ],
+    "steps": [
+      "Gnocchi nach Packungsangabe garen und abtropfen lassen. Tomaten halbieren, Knoblauch fein hacken.",
+      "Gnocchi mit zwei Esslöffeln Öl in einer großen Pfanne rundum goldbraun braten. Kurz herausnehmen.",
+      "Übriges Öl, Knoblauch und Tomaten in die Pfanne geben. Bei mittlerer Hitze etwa fünf Minuten braten, bis die Tomaten Saft ziehen.",
+      "Gnocchi wieder dazugeben, salzen und pfeffern. Mit gezupftem Basilikum servieren."
+    ]
+  },
+  {
+    "id": "kichererbsencurry",
+    "photo": "kichererbsencurry",
+    "title": "Kichererbsen-Kokos-Curry",
+    "category": "Hauptgerichte",
+    "minutes": 30,
+    "portions": 4,
+    "difficulty": "Einfach",
+    "ingredients": [
+      "250 g Basmatireis",
+      "2 Dosen Kichererbsen (je 240 g abgetropft)",
+      "1 Zwiebel",
+      "2 Knoblauchzehen",
+      "1 EL Öl",
+      "2 TL mildes Currypulver",
+      "400 ml Kokosmilch",
+      "200 g gehackte Tomaten",
+      "1 Limette",
+      "Salz",
+      "Frischer Koriander"
+    ],
+    "steps": [
+      "Reis nach Packungsangabe in Salzwasser garen. Kichererbsen in einem Sieb abspülen.",
+      "Zwiebel und Knoblauch fein hacken. Im Öl glasig dünsten, Currypulver kurz mitrösten.",
+      "Kokosmilch, Tomaten und Kichererbsen zugeben. Offen 15–20 Minuten sanft köcheln lassen.",
+      "Mit Salz und Limettensaft abschmecken. Mit Reis und Koriander servieren."
+    ]
+  },
+  {
+    "id": "pfannkuchen",
+    "photo": "pfannkuchen",
+    "title": "Fluffige Pancakes mit Beeren",
+    "category": "Frühstück",
+    "minutes": 25,
+    "portions": 4,
+    "difficulty": "Einfach",
+    "ingredients": [
+      "200 g Mehl",
+      "2 TL Backpulver",
+      "1 EL Zucker",
+      "1 Prise Salz",
+      "2 Eier",
+      "220 ml Milch",
+      "2 EL neutrales Öl plus etwas für die Pfanne",
+      "200 g frische Beeren"
+    ],
+    "steps": [
+      "Mehl, Backpulver, Zucker und Salz mischen. Eier mit Milch und Öl verquirlen.",
+      "Flüssige Zutaten kurz unter das Mehl rühren. Den Teig 5 Minuten ruhen lassen.",
+      "Eine Pfanne leicht ölen und auf mittlerer Stufe erhitzen. Je Pancake etwa 2 EL Teig hineingeben. Wenn sich Bläschen bilden, wenden und die zweite Seite goldbraun backen.",
+      "Pancakes auf Tellern stapeln und mit gewaschenen Beeren servieren."
+    ]
+  },
+  {
+    "id": "ofenpasta",
+    "photo": "ofenpasta",
+    "title": "Pasta mit Ofentomaten",
+    "category": "Hauptgerichte",
+    "minutes": 35,
+    "portions": 4,
+    "difficulty": "Einfach",
+    "ingredients": [
+      "400 g Rigatoni",
+      "600 g Cherrytomaten",
+      "3 Knoblauchzehen",
+      "3 EL Olivenöl",
+      "100 ml Sahne oder Hafercuisine",
+      "40 g geriebener Parmesan",
+      "1 Handvoll Basilikum",
+      "Salz und schwarzer Pfeffer"
+    ],
+    "steps": [
+      "Backofen auf 220 °C Ober-/Unterhitze vorheizen. Tomaten und angedrückten Knoblauch in einer flachen Form mit Olivenöl, Salz und Pfeffer mischen. Etwa 20–25 Minuten rösten, bis die Tomaten aufplatzen.",
+      "Währenddessen Rigatoni in Salzwasser bissfest kochen. Vor dem Abgießen eine Tasse Kochwasser auffangen.",
+      "Einige Tomaten zum Anrichten beiseitelegen. Übrige Tomaten und Knoblauch in der Form mit einer Gabel zerdrücken. Sahne und etwas Kochwasser einrühren.",
+      "Pasta und die Hälfte des Parmesans mit der Sauce vermengen. Mit den ganzen Tomaten, Basilikum und restlichem Parmesan servieren."
+    ]
+  },
+  {
+    "id": "moehrensuppe",
+    "photo": "moehrensuppe",
+    "title": "Möhren-Ingwer-Suppe",
+    "category": "Suppen",
+    "minutes": 35,
+    "portions": 4,
+    "difficulty": "Einfach",
+    "ingredients": [
+      "700 g Möhren",
+      "1 Kartoffel (ca. 150 g)",
+      "1 Zwiebel",
+      "15 g frischer Ingwer",
+      "1 EL Öl",
+      "900 ml Gemüsebrühe",
+      "100 ml Kokosmilch",
+      "2 EL Kürbiskerne",
+      "Salz und Pfeffer"
+    ],
+    "steps": [
+      "Möhren und Kartoffel schälen und klein würfeln. Zwiebel und Ingwer fein hacken.",
+      "Zwiebel und Ingwer im Öl anschwitzen. Gemüse hinzugeben, Brühe angießen und 20 Minuten zugedeckt köcheln lassen.",
+      "Kürbiskerne in einer trockenen Pfanne kurz anrösten. Suppe mit Kokosmilch fein pürieren und abschmecken.",
+      "Auf Schalen verteilen und mit Kürbiskernen bestreuen."
+    ]
+  },
+  {
+    "id": "apfelcrumble",
+    "photo": "apfelcrumble",
+    "title": "Warmer Apfelcrumble",
+    "category": "Desserts",
+    "minutes": 45,
+    "portions": 4,
+    "difficulty": "Einfach",
+    "ingredients": [
+      "4 säuerliche Äpfel (ca. 650 g)",
+      "1 EL Zitronensaft",
+      "1 TL Zimt",
+      "80 g Mehl",
+      "50 g Haferflocken",
+      "60 g brauner Zucker",
+      "80 g kalte Butter",
+      "1 Prise Salz"
+    ],
+    "steps": [
+      "Backofen auf 190 °C Ober-/Unterhitze vorheizen. Äpfel entkernen und in dünne Spalten schneiden.",
+      "Apfelspalten mit Zitronensaft und Zimt mischen und in eine flache Auflaufform geben.",
+      "Mehl, Haferflocken, Zucker, Salz und gewürfelte Butter mit den Fingern zu groben Streuseln verreiben. Über den Äpfeln verteilen.",
+      "Etwa 30 Minuten backen, bis die Streusel goldbraun und die Äpfel weich sind. Kurz abkühlen lassen und warm servieren."
+    ]
+  }
+]
